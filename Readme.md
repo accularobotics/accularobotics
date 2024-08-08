@@ -1,17 +1,17 @@
 <ul> 
 <p>
-<il>
-Marcos Garces de Araujo
-Cursando: Programador Web
-Engenharia de Controle e Automação(Mecatrônica)
-Html,Css,Javascript, react,md
-Assembler Z80
-Assembler 8051
-Delphi
-Pascal
-C++
-Vhdl
-e-mail:accula.robotics@gmail.com
+
+<li> Marcos Garces de Araujo  </li>
+<li>Cursando: Programador Web</li>
+<li>Engenharia de Controle e Automação(Mecatrônica)</li>
+<li>Html,Css,Javascript, react,md</li>
+<li>Assembler Z80</li>
+<li>Assembler 8051</li>
+<li>Delphi</li>
+<li>Pascal</li>
+<li>C++</li>
+<li>Vhdl</li>
+<li>e-mail:accula.robotics@gmail.com</li>
 
 </p>
 </ul>
